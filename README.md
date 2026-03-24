@@ -13,7 +13,7 @@
 
 <br/>
 
-![Header](https://github.com/sujitkoji/lighthouse/blob/main/public/lighthouse-img.png?raw=true) 
+![Header](https://github.com/Lumina-GL/liquid-void/blob/main/public/og-img.png?raw=true) 
 
 ---
 
