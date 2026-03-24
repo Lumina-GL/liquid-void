@@ -9,7 +9,7 @@
 
 **An abstract generative fluid simulation crafted with GLSL & React Three Fiber.**
 
-[ [LAUNCH EXPERIENCE](https://liquid-void.sujitkoji.com/) ] &nbsp; • &nbsp; [ [RESOURCES](https://github.com/sujitkoji/liquid-void) ]
+[ [LAUNCH EXPERIENCE](https://liquid-void.sujitkoji.com/) ] &nbsp; • &nbsp; [ [RESOURCES](https://github.com/Lumina-GL/liquid-void) ]
 
 <br/>
 
